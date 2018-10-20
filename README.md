@@ -17,5 +17,11 @@ This is MATLAB code for conference article [1] and journal article (under review
 
 [2] Bo Shang, Jianxin Liu, Yunzhou Zhang, Chengdong Wu, YangQuan Chen. Fractional Order Flight Control of Quadrotor UAS on Vision-based Precision Hovering with Larger Sampling Period (under review), Nonlinear Dynamics, 2019.
 
+# Usage
+test_f_h_fopd.mlx -> Barchart.fig/png
+Then gradually change the range of h:
+eg:
+test_f_h_fopd09_11.mlx -> Barchart09_11.fig/png
+
 # Contact
 Email: cnpcshangbo@gmail.com
