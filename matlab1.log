@@ -1,0 +1,168 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015b (8.6.0.267246) 64-bit (glnxa64)
+                              August 20, 2015
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+=========================
+Step: 1/64                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0       2    5.941585e-01    0.000e+00    1.907e-01
+    1       4    5.569216e-01    0.000e+00    1.366e-01    2.292e-01
+    2       6    5.023969e-01    0.000e+00    2.473e-02    7.161e-01
+    3       8    5.001132e-01    0.000e+00    5.804e-03    1.499e-01
+    4      10    4.999788e-01    0.000e+00    2.596e-04    4.850e-02
+    5      12    4.999786e-01    0.000e+00    3.390e-06    2.050e-03
+    6      14    4.999786e-01    0.000e+00    3.186e-08    2.774e-05
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the default value of the function tolerance,
+and constraints are satisfied to within the default value of the constraint tolerance.
+
+
+
+h=0.1
+f_h=-0.49998
+=========================
+Step: 2/64                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0       2    5.924951e-01    0.000e+00    1.887e-01
+    1       4    5.558793e-01    0.000e+00    1.358e-01    2.273e-01
+    2       6    5.013988e-01    0.000e+00    2.437e-02    7.213e-01
+    3       8    4.991532e-01    0.000e+00    5.771e-03    1.494e-01
+    4      10    4.990183e-01    0.000e+00    2.526e-04    4.893e-02
+    5      12    4.990180e-01    0.000e+00    3.384e-06    2.024e-03
+    6      14    4.990180e-01    0.000e+00    3.183e-08    2.887e-05
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the default value of the function tolerance,
+and constraints are satisfied to within the default value of the constraint tolerance.
+
+
+
+h=0.25714
+f_h=-0.49902
+=========================
+Step: 3/64                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0       2    5.827584e-01    0.000e+00    1.782e-01
+    1       4    5.493743e-01    0.000e+00    1.310e-01    2.173e-01
+    2       6    4.950308e-01    0.000e+00    2.315e-02    7.503e-01
+    3       8    4.928192e-01    0.000e+00    6.060e-03    1.520e-01
+    4      10    4.926521e-01    0.000e+00    1.594e-04    5.673e-02
+    5      12    4.926520e-01    0.000e+00    3.291e-06    1.424e-03
+    6      14    4.926520e-01    0.000e+00    3.154e-08    3.727e-05
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the default value of the function tolerance,
+and constraints are satisfied to within the default value of the constraint tolerance.
+
+
+
+h=0.41429
+f_h=-0.49265
+=========================
+Step: 4/64                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0       2    5.525990e-01    0.000e+00    1.510e-01
+    1       4    5.269849e-01    0.000e+00    1.177e-01    1.914e-01
+    2       6    4.740637e-01    0.000e+00    3.385e-02    7.472e-01
+    3       8    4.671488e-01    0.000e+00    1.748e-02    2.779e-01
+    4      10    4.628208e-01    0.000e+00    1.487e-02    3.017e-01
+    5      12   -3.510730e-01    0.000e+00    3.764e+00    1.277e+00
+    6      17   -2.060290e+01    0.000e+00    1.365e+02    1.966e+02
+    7      32   -1.591524e+03    0.000e+00    8.441e+04    3.737e-01
+    8      37   -3.849469e+04    0.000e+00    9.570e+06    4.663e-02
+    9      41   -1.987954e+05    0.000e+00    1.132e+08    1.156e-02
+   10      44   -7.624134e+05    0.000e+00    8.432e+08    5.328e-03
+   11      47   -8.334041e+06    0.000e+00    3.084e+10    2.349e-03
+   12      51   -3.570684e+09    0.000e+00    2.309e+14    5.715e-04
+   13      61   -2.823394e+10    0.000e+00    1.094e+16    3.572e-05
+   14      64   -3.759598e+10    0.000e+00    5.853e+15    1.749e-05
+   15      66   -6.045185e+11    0.000e+00    1.690e+17    6.095e-06
+   16      74   -2.370855e+12    0.000e+00    5.789e+17    3.047e-06
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current step is less than
+the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+
+
+h=0.57143
+f_h=2370855139034.884
+=========================
+Step: 5/64                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0       2    4.818036e-01    0.000e+00    1.059e-01
+    1       4    4.670669e-01    0.000e+00    9.300e-02    1.485e-01
+    2       6    4.181339e-01    0.000e+00    7.315e-02    6.344e-01
+    3       8   -1.538528e+00    0.000e+00    5.523e-01    2.090e+00
+    4      12   -8.249350e+01    0.000e+00    1.246e+03    1.411e+01
+    5      24   -1.542500e+02    0.000e+00    3.811e+03    2.203e-01
+    6      26   -2.368961e+02    0.000e+00    6.063e+03    1.660e-01
+    7      28   -2.320018e+03    0.000e+00    1.960e+05    1.020e-01
+    8      32   -4.764439e+06    0.000e+00    1.748e+10    2.472e-02
+    9      43   -2.718414e+07    0.000e+00    2.390e+11    7.726e-04
+   10      46   -8.108824e+07    0.000e+00    1.225e+12    3.600e-04
+   11      49   -4.093029e+09    0.000e+00    4.508e+14    1.506e-04
+   12      54   -3.809653e+13    0.000e+00    1.132e+20    1.877e-05
+   13      66   -1.392582e+14    0.000e+00    3.398e+20    2.933e-07
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current step is less than
+the default value of the step size tolerance and constraints are 
+satisfied to within the default value of the constraint tolerance.
+
+
+
+h=0.72857
+f_h=139258222658435.9
+=========================
+Step: 6/64                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0       2    3.350085e-01    0.000e+00    6.697e-02
+    1       4    3.305232e-01    0.000e+00    7.010e-02    6.426e-02
+    2       6    2.953180e-01    0.000e+00    1.267e-01    3.656e-01
+    3       8   -2.264099e+00    0.000e+00    8.196e+00    3.230e+00
+    4      14   -3.213113e+03    0.000e+00    2.356e+05    6.879e+00
+    5      26   -5.301034e+03    0.000e+00    5.207e+05    4.760e-02
+    6      28   -1.543740e+04    0.000e+00    2.504e+06    3.284e-02
+    7      31   -1.376748e+06    0.000e+00    2.129e+09    1.358e-02
+    8      36   -1.438904e+07    0.000e+00    7.184e+10    1.695e-03
+    9      40   -1.988216e+10    0.000e+00    3.594e+15    4.116e-04
+   10      51   -5.337253e+11    0.000e+00    5.916e+17    1.286e-05
+   11      55   -1.858118e+12    0.000e+00    2.648e+18    3.196e-06
+Error writing to output stream.
+
+{Error using fprintf
+Error writing to output stream.
+
+
+
+Error in barrier
+
+Error in barrier
+
+Error in fmincon (line 796)
+    [X,FVAL,EXITFLAG,OUTPUT,LAMBDA,GRAD,HESSIAN] =
+    barrier(funfcn,X,A,B,Aeq,Beq,l,u,confcn,options.HessFcn, ...
+
+Error in cal_f_h (line 9)
+[omega,fval]=fmincon(@(omega)O_omega(omega,h),omega_0,[],[],[],[],lb,ub,[],options);
+
+Error in test_f_h_01_100_64p (line 15)
+    [ omega(n),f_h(n) ]=cal_f_h(h(n));
+} 
